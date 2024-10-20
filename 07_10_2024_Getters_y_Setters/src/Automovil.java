@@ -1,4 +1,5 @@
 public class Automovil {
+    public class Automovil {
         private String marca = "MERCEDES BENZ";
         private String modelo;
         private String color = "Negro";
@@ -99,4 +100,4 @@ public class Automovil {
             return cm;
         }
     }
-
+}
